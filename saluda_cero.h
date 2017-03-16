@@ -1,0 +1,3 @@
+
+
+int saluda_cero();
