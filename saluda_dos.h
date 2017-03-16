@@ -1,1 +1,1 @@
-nt saluda_dos();
+int saluda_dos();
