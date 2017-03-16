@@ -16,7 +16,7 @@ int main() {
 
     saluda_cero();
     //saluda_cinco();
-    //saluda_dos();
+    saluda_dos();
     //saluda_ocho();
     //saluda_uno();
 
