@@ -18,7 +18,7 @@ int main() {
     //saluda_cinco();
     //saluda_dos();
     //saluda_ocho();
-    //saluda_uno();
+    saluda_uno();
 
     printf("i^j = %d^%d = %d\n", i,j, pow(i,j));
 	return (0);
