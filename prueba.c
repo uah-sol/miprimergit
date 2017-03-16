@@ -7,6 +7,7 @@ int main() {
     int j=23;
 
     printf("Hola mundo mundial\n");
+    printf("------------------\n");
     printf("i^j = %d^%d = %d\n", i,j, pow(i,j));
 	return (0);
 }
